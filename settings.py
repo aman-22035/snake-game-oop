@@ -1,0 +1,9 @@
+WIDTH = 600
+HEIGHT = 600
+GRID_SIZE = 20
+FPS = 10
+
+WHITE = (255, 255, 255)
+GREEN = (0, 200, 0)
+RED = (200, 0, 0)
+BLACK = (0, 0, 0)
